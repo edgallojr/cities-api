@@ -18,7 +18,7 @@ A principal função dessa API é calcular a distância entre duas cidades, mas 
 
 ### Implantação em Produção
 
-Cities foi disponibilizada na plataforma Cloud  [Heroku.](https://www.heroku.com), com banco de dados  [PostgreSQL.](https://www.postgresql.org/).
+Cities foi disponibilizada na plataforma Cloud  [Heroku](https://www.heroku.com), com banco de dados  [PostgreSQL](https://www.postgresql.org/).
 
 Suas funcionalidades podem ser testadas utilizando a ferramenta [Postman.](https://www.postman.com) Segue URLs para teste:
 
